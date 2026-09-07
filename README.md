@@ -28,22 +28,63 @@ The newsletter is the argument. This is where the receipts live.
    metric that means something other than its name, it gets documented so the
    next person doesn't lose a day to it.
 
+## How I work
+
+High-D on DiSC. Direct, fast, action-oriented. I'd rather be corrected early
+than be polite for three weeks.
+
+1. **I open with the recommendation, then show the work.** Nobody should have to
+   read to slide 14 to find the ask.
+2. **I quantify before I argue.** A percentage beats any adjective I could pick.
+3. **I go straight to the source data.** If the answer lives in a warehouse
+   table, I write the query instead of waiting for a dashboard request to clear
+   a queue.
+4. **I timebox investigation.** Directionally right this week beats perfectly
+   right next quarter.
+5. **I write things down as I go**, so the artifact and the work are the same
+   object.
+
 ## How I lead
 
-1. I give the outcome and the constraints, not the method. People own the how.
+1. **I give the outcome and the constraints, not the method.** People own the how.
    My job is making the what unambiguous and clearing blockers.
-2. I make the work visible. Every program has a tracked home with per-owner
+2. **I make the work visible.** Every program has a tracked home with per-owner
    views, so status is something you look up instead of something you interrupt
    someone for.
-3. I put my leads in front of the room. The person closest to the work presents
+3. **I put my leads in front of the room.** The person closest to the work presents
    the work. I'd rather coach the readout than deliver it.
-4. I take other people's ideas and give them structure. Several programs I've
+4. **I take other people's ideas and give them structure.** Several programs I've
    run started as somebody else's offhand comment.
-5. I run pre-mortems before big launches. Ask the team what will break, then go
+5. **I run pre-mortems before big launches.** Ask the team what will break, then go
    fix that. It surfaces the concern the quiet person on the call wasn't going
    to raise.
-6. Feedback goes both directions and it goes early. I'd rather have the
+6. **Feedback goes both directions and it goes early.** I'd rather have the
    uncomfortable conversation in week one.
+
+## Staying one step ahead
+
+This is the part people ask about most. It isn't foresight, it's four habits.
+
+1. **I use the tool before it's policy.** When a new capability lands, I run my
+   actual job through it that week. Not a sandbox test, real work. That's how I
+   learn where it breaks, which means I have an informed opinion before anyone
+   asks me for one.
+2. **I package what I automate.** A script on my laptop helps me. The same
+   script with a description, a source-of-truth pointer, and validated queries
+   helps everyone, and it keeps helping after I've moved on to something else.
+   The packaging is the leverage.
+3. **I migrate tribal knowledge into shared infrastructure.** The
+   highest-leverage project I've run recently wasn't a new tool. It was moving a
+   large skill inventory out of scattered docs into a shared, version-controlled
+   repo, plus a champions structure so each function maintains its own. Ops
+   teams don't fail from a lack of ideas. They fail because the knowledge lives
+   in one person's head, one person's Drive folder, or one person's memory of
+   which table is the real one.
+4. **I uplevel by requiring reps, not by giving demos.** I put my directs
+   through real certifications with real deadlines. Watching me do it teaches
+   nothing. Doing it once, badly, with support, teaches everything. The goal is a
+   team that builds its own tools, and that only happens if they have commit
+   access and a reason to use it.
 
 ## What I'm working on
 
