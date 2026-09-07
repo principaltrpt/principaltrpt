@@ -62,6 +62,7 @@ reordered another team's call list, which wasn't my call to make alone.
 | Framework | When |
 | --- | --- |
 | **5 Whys** | Root cause, before any solution gets scoped |
+| **RICE** | Prioritizing initiatives against each other, when everything is somebody's top priority |
 | **Crawl / walk / run** | Sequencing anything new |
 | **RACI** | Anything touching more than one team |
 | **Pilot to scale** | With the decision date set at kickoff |
@@ -75,3 +76,4 @@ The filter I use when someone tells me an ops problem can't be automated:
 - Newsletter: [CSLABS](https://substack.com/@cslabs)
 - Contact: cs4cslabs@gmail.com
 - 2025 Thumbtack Values Award, Teamwork. The recognition I care most about so far.
+- 2025 Sales President's Award.
