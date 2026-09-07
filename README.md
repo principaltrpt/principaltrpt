@@ -61,6 +61,9 @@ than be polite for three weeks.
 6. **Feedback goes both directions and it goes early.** I'd rather have the
    uncomfortable conversation in week one.
 
+The longer version, written for my team rather than for a profile page, is in
+[working-with-me.md](https://github.com/principaltrpt/cslabs/blob/main/leadership/working-with-me.md).
+
 ## Staying one step ahead
 
 This is the part people ask about most. It isn't foresight, it's four habits.
