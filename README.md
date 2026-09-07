@@ -112,6 +112,16 @@ reordered another team's call list, which wasn't my call to make alone.
 The filter I use when someone tells me an ops problem can't be automated:
 "Whether you think you can, or you think you can't, you're right." Henry Ford.
 
+## What's here
+
+Projects run on synthetic data generated from parameters. Nothing proprietary.
+
+1. **[field-agent-copilot](https://github.com/principaltrpt/field-agent-copilot)**
+   Turns a book of providers into a ranked call list: who to call, why, and
+   which nearby open jobs to open with. The interesting part is what the scorer
+   does when the data is thin or missing, which in real operations is most of
+   the time.
+
 ## Elsewhere
 
 - Newsletter: [CSLABS](https://substack.com/@cslabs)
